@@ -1,6 +1,6 @@
 # 🎵 sistema-musical-Danilo-Oliveira
 
-> **Sprint 1 — Interface e Front-End**
+> **Interface e Front-End**
 > 
 > Projeto acadêmico de um sistema de gerenciamento de acervo musical (Artistas, Músicas e Biblioteca), desenvolvido em HTML5 e CSS3 responsivo.
 
